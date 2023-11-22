@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: backstage-innersource
+  annotations:
+    github.com/project-slug: dclark-redhat/backstage-innersource
+spec:
+  type: other
+  lifecycle: unknown
+  owner: Dean
